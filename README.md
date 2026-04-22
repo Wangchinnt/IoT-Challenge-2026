@@ -51,14 +51,14 @@
 
 ## 🔧 PHẦN 3: ECOSYSTEM SILICON LABS CẦN BIẾT
 
-### Dev Kits Khuyến Nghị
+### Dev Kits Khuyến Nghị (Có thể bị thay đổi phụ thuộc vào ban tổ chức, cần lưu ý)
 
 | Dev Kit | Tính năng | Giá ~ | Phù hợp cho |
 |---------|-----------|-------|-------------|
-| **EFR32xG24 Dev Kit** | AI/ML hardware accelerator, multi-protocol wireless | $79 | Tất cả ideas |
-| **EFR32xG24 Explorer Kit** | Basic dev, BLE/Zigbee/Thread | $35 | Prototyping |
-| **SparkFun Thing Plus MGM240P** | Arduino-compatible, Qwiic sensors | $25 | Rapid prototyping |
-| **Seeed Studio XIAO MG24 Sense** | Siêu nhỏ gọn, có IMU built-in | $15 | Wearable projects |
+| **EFR32xG24 Dev Kit or newest** | AI/ML hardware accelerator, multi-protocol wireless | $79 | Tất cả ideas |
+| **EFR32xG24 Explorer Kit or newest** | Basic dev, BLE/Zigbee/Thread | $35 | Prototyping |
+| **SparkFun Thing Plus MGM240P or newest** | Arduino-compatible, Qwiic sensors | $25 | Rapid prototyping |
+| **Seeed Studio XIAO MG24 Sense or newest** | Siêu nhỏ gọn, có IMU built-in | $15 | Wearable projects |
 
 ### Software Development Kit (SDK)
 
