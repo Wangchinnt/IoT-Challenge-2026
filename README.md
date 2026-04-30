@@ -45,7 +45,7 @@
 | **Code Quality** | Tuân thủ coding standards, có documentation | 🟡 Khuyến nghị |
 
 ### 3. GitHub Repository Chính Thức
-🔗 **Silicon Labs Sandbox:** https://github.com/SiliconLabsSandBox
+🔗 **Silicon Labs Sandbox:** https://github.com/SiliconLabsSoftware
 
 ---
 
